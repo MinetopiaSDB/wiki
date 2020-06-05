@@ -10,7 +10,7 @@ Are you already convinced? Then take a quick look at the [setup](setup.md) page 
 
 * A customizable chat with your prefix and level
 * A fully customizable scoreboard with for example fitness, level and bankbalance
-* An ATM (_Red Sanstone Stairs_)
+* An ATM (_Red Sandstone Stairs_)
 * A trashcan (_Dropper_)
 * A vending machine (_Piston_), where you can buy goody bags with Lucky Shards
 * Support for PlaceholderAPI placeholders
