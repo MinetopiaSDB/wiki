@@ -16,10 +16,21 @@ module.exports = {
     ['meta', {name: 'theme-color', content: '#25272a'}],
     ['link', {rel: 'dns-prefetch', href: 'https://storage.googleapis.com'}]
   ],
-  plugins: ['@vuepress/pwa', {
+  plugins:
+  [
+  ['@vuepress/last-updated',
+  {
+    transformer: (timestamp, lang) => {
+	const moment = require('moment')
+	moment.locale(lang)
+	return moment(timestamp).fromNow()
+    }
+  }],
+  ['@vuepress/pwa',
+  {
     serviceWorker: true,
     updatePopup: true
-}],
+  }]],
   locales: {
     '/': {
       lang: 'nl-NL',
