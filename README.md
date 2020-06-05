@@ -10,7 +10,7 @@ Ben je al overtuigd? Kijk dan snel op de [setup](setup.md) pagina om van start t
 
 * Een aanpasbare chat met daarin je prefix en level
 * Een volledig aanpasbaar scoreboard met bijvoorbeeld fitheid, level en banksaldo
-* Een geldautomaat (_Red Sanstone Stairs_)
+* Een geldautomaat (_Red Sandstone Stairs_)
 * Een prullenbak (_Dropper_)
 * Een vending machine (_Piston_), waar je goody bags kan kopen met Lucky Shards
 * Ondersteuning voor PlaceholderAPI placeholders
