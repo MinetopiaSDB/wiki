@@ -14,11 +14,11 @@ Je kunt er natuurlijk ook voor kiezen om je data niet over te laten zetten, dat 
 Een hele boel! De meeste veranderingen zijn achter de schermen, maar er zijn ook een aantal nieuwe functies toegevoegd:
 - /prefix
 - /prefixkleur 
-- /levelkleur.
-- Er zijn nu ook goldshards en grayshards toegevoegd die beide een eigen booster hebben. 
-- Je kunt in vendingmachines nu ook epic en legendary goodybags kopen.
-- Data wordt nu opgeslagen in MySQL of SQLite.
-- Je kunt meerdere MinetopiaSDB servers via bungeecord met elkaar combineren, zodat je spelers kunt verspreiden over meerdere servers.
+- /levelkleur
+- Er zijn nu ook goldshards en grayshards toegevoegd die beide een eigen booster hebben
+- Je kunt in vendingmachines nu ook epic en legendary goodybags kopen
+- Data wordt nu opgeslagen in MySQL of SQLite
+- Je kunt meerdere MinetopiaSDB servers via bungeecord met elkaar combineren, zodat je spelers kunt verspreiden over meerdere servers
 
 
 ## Hoe krijg ik mijn rank in de tablist of in de chat?
