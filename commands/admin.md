@@ -98,7 +98,7 @@ Aliases: /rekening, /ohrekening, /spaarrekening
 
 **/teleporter**\
 Omschrijving: Gebruik /teleporter om teleporters aan te maken of te verwijderen.\
-Permissie: minetopiasdb.teleporter\
+Permissie: minetopiasdb.teleporter
 
 **/criminalrecord**\
 Omschrijving: Gebruik /strafblad om strafbladen van spelers te beheren.\
