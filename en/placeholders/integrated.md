@@ -15,6 +15,7 @@ You can also use these placeholders in the Message.yml file by adding ``Player``
 | &lt;Level&gt;              | The level of this player                            |
 | &lt;Prefix&gt;             | The prefix of this player                           |
 | &lt;GrayCoin&gt;           | The amount of graycoins this player has             |
+| &lt;GrayShards&gt;        | The amount of grayshards this player has             |
 | &lt;LuckyShards&gt;        | The amount of luckyshards this player has           |
 | &lt;GoldShards&gt;         | The amount of goldshards this player has            |
 | &lt;Balance&gt;            | The bank balance of this player                     |
