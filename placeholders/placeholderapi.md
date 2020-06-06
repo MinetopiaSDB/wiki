@@ -13,6 +13,7 @@ Om gebruik te maken van de PlaceholderAPI placeholders, moet je eerst Placeholde
 | %minetopiasdb_graycoins%   | Het aantal graycoins van de speler           |
 | %minetopiasdb_fitness%     | De huidige fitheid van de speler             |
 | %minetopiasdb_temperature% | De temperatuur op de locatie van de speler   |
+| %minetopiasdb_grayshards%  | Het aantal grayshards van de speler          |
 | %minetopiasdb_goldshards%  | Het aantal goldshards van de speler          |
 | %minetopiasdb_luckyshards% | Het aantal luckyshards van de speler         |
 | %minetopiasdb_maxfit%      | De maximale fitheid, ingesteld in de config  |
