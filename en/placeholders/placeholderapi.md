@@ -13,6 +13,7 @@ To use the PlaceholderAPI placeholders, you'll need to install PlaceholderAPI fi
 | %minetopiasdb_graycoins%   | The amount of graycoins this player has      |
 | %minetopiasdb_fitness%     | The fitness of this player                   |
 | %minetopiasdb_temperature% | The current temperature                      |
+| %minetopiasdb_grayshards%  | The amount of grayshards this player has     |
 | %minetopiasdb_goldshards%  | The amount of goldshards this player has     |
 | %minetopiasdb_luckyshards% | The amount of luckyshards this player has    |
 | %minetopiasdb_maxfit%      | The maximum fitness (usually 225)            |
