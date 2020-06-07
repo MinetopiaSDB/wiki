@@ -56,7 +56,7 @@ MinetopiaSDB is en blijft gratis. Het migreren van data is immers vrijwillig. Je
 
 ### Ik wil mijn data laten migreren naar v2 data, hoe moet dat?
 
-Dat kan op twee manieren. De makkelijkste manier is om in de [MinetopiaSDB Discord](https://minetopiasdb.nl/discord) het commando ``sdb!dataconversion`` uit te voeren in #bot-commandos. De andere manier is door een emailtje te sturen naar [datamigratie@minetopiasdb.nl](mailto:datamigratie@minetopiasdb.nl).
+Dat kan op twee manieren. De makkelijkste manier is om in de [MinetopiaSDB Discord](https://minetopiasdb.nl/discord) het commando ``sdb!dataconversion`` uit te voeren in #bot-commands. De andere manier is door een emailtje te sturen naar [datamigratie@minetopiasdb.nl](mailto:datamigratie@minetopiasdb.nl).
 
 | Unieke spelers  | Prijs   |
 | --------------- | ------- |

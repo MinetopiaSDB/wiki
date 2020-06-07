@@ -50,7 +50,7 @@ Saving data has become a lot more efficient in the v2 update of MinetopiaSDB. Un
 MinetopiaSDB is and remains free. After all, migrating data is voluntary. You can continue to use your server without converting data, although this will mean that your players will have to start from 0 again.
 
 ### I want to migrate my data to the new data, how can I do this?
-There are two ways to convert data. The easiest way is to to type the command ``sdb!dataconversion`` in the [MinetopiaSDB discord](https://minetopiasdb.nl/discord). The other way is to send an email to [datamigration@minetopiasdb.nl](mailto:datamigration@minetopiasdb.nl).
+There are two ways to convert data. The easiest way is to execute the command ``sdb!dataconversion`` in the #bot-commands channel in the [MinetopiaSDB discord](https://minetopiasdb.nl/discord). The other way is to send an email to [datamigration@minetopiasdb.nl](mailto:datamigration@minetopiasdb.nl).
 
 | Unique Players  | Price |
 | --------------- | ----- |
