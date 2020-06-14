@@ -70,7 +70,8 @@ module.exports = {
               '/setup',
               '/bungeecord',
               '/faq',
-              '/permissions'
+              '/permissions',
+              '/api'
             ]
           },
           {
@@ -122,7 +123,8 @@ module.exports = {
               '/en/setup',
               '/en/bungeecord',
               '/en/faq',
-              '/en/permissions'
+              '/en/permissions',
+              '/en/api'
             ]
           },
           {
