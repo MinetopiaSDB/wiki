@@ -10,3 +10,4 @@ Op deze pagina staan alleen de permissies voor functies die niet aan een command
 | minetopiasdb.chatspy               | Lees chatberichten van spelers buiten jouw chatradius |
 | minetopiasdb.commandspy            | Zie welke commando's de spelers uitvoeren |
 | minetopiasdb.changehelmet          | Verander de helmen van armorstands naar items op de headwhitelist |
+| minetopiasdb.chatbypass            | Bypass antiswear, anticaps en antispam |
