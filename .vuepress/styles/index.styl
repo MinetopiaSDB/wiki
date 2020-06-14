@@ -1,3 +1,14 @@
 a > .icon.outbound {
   display: none;
 }
+
+@media (prefers-color-scheme:dark) {
+  .sw-update-popup {
+    color: var(--bgColor);
+    border: 2px solid var(--accentColor) !important;
+  }
+}
+
+.sw-update-popup > button {
+  border: 1px solid var(--accentColor);
+}
