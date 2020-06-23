@@ -28,7 +28,7 @@ Permission: minetopiasdb.levelcheck
 
 **/mod**\
 Description: Change playerdata (such as level and fitness) of a player.\
-Permission: minetopiasdb.mod
+Permission: minetopiasdb.mod\
 Permissions per subcommand:
 | Permissie                          | Descrpiption |
 | :--------------------------------- | :----------- |
