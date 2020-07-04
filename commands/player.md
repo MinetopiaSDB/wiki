@@ -46,7 +46,7 @@ Aliases: /sboard, /sb
 
 **/time**\
 Omschrijving: Bekijk jouw onlinetijd.\
-Permissie: Geen!\
+Permissie: minetopiasdb.time.other om de onlinetijd van andere spelers te bekijken via /time <Speler>\
 Aliases: /playtime
 
 **/plotinfo**\
