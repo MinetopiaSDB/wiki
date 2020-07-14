@@ -119,3 +119,13 @@ Aliases: /echtgeld, /nepgeld, /fakemoney
 Omschrijving: Pas de inhoud van lootcrates aan of krijg willekeurige items uit lootcrates.\
 Permissie: minetopiasdb.lootcrate\
 Aliases: /lc
+
+**/bodysearch**\
+Omschrijving: Gebruik /fouilleer om andere spelers te fouilleren.\
+Permissie: minetopiasdb.bodysearch\
+Aliases: /fouilleer
+
+**/stattop**\
+Omschrijving: Krijg een lijst van spelers met de langste onlinetijd, het meeste geld of het hoogste level\
+Permissie: minetopiasdb.stattop\
+

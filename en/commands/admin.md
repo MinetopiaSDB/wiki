@@ -124,3 +124,12 @@ Aliases: /echtgeld, /nepgeld, /fakemoney
 Description: Modify the content of lootcrates or get random items from lootcrates.\
 Permission: minetopiasdb.lootcrate\
 Aliases: /lc
+
+**/bodysearch**\
+Description: Use /bodysearch to bodysearch other players.\
+Permission: minetopiasdb.bodysearch\
+Aliases: /fouilleer
+
+**/stattop**\
+Description: Get a list of players with the longest onlinetime, highest bank balance or highest level\
+Permission: minetopiasdb.stattop\
