@@ -132,4 +132,4 @@ Aliases: /fouilleer
 
 **/stattop**\
 Description: Get a list of players with the longest onlinetime, highest bank balance or highest level\
-Permission: minetopiasdb.stattop\
+Permission: minetopiasdb.stattop

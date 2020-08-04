@@ -127,5 +127,5 @@ Aliases: /fouilleer
 
 **/stattop**\
 Omschrijving: Krijg een lijst van spelers met de langste onlinetijd, het meeste geld of het hoogste level\
-Permissie: minetopiasdb.stattop\
+Permissie: minetopiasdb.stattop
 
