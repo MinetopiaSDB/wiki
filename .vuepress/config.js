@@ -49,6 +49,11 @@ module.exports = {
     repoLabel: 'Contribute',
     editLinks: true,
     nextLinks: true,
+    algolia: {
+      apiKey: 'bd19a781d521c4f1e342a6b1fab1a6f9',
+      indexName: 'minetopiasdb'
+    },
+    searchPlaceholder: 'Zoeken...',
     locales: {
       '/': {
         selectText: 'Languages',
