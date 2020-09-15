@@ -11,3 +11,4 @@ This page only includes the permissions for functions which are not bound to a c
 | minetopiasdb.commandspy            | See which commands the players are executing |
 | minetopiasdb.changehelmet          | Change the helmets of armorstands to items on the headwhitelist |
 | minetopiasdb.chatbypass            | Bypass antiswear, anticaps and antispam |
+| minetopiasdb.handcuff              | Handcuff players with the handcuff item |
