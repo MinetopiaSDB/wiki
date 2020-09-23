@@ -51,7 +51,7 @@ Aliases: /playtime
 
 **/plotinfo**\
 Omschrijving: Met /plotinfo kan je de basisinformatie van een plot zien.\
-Permissie: minetopiasdb.plotinfo (Om de admin pagina te zien)!\
+Permissie: minetopiasdb.plotinfo (Om de admin pagina te zien en /plotinfo <Plot> te gebruiken)!\
 Aliases: /pinfo, /pi
 
 **/plot**\
