@@ -3,7 +3,9 @@
 One of the key differences between MinetopiaSDB v1 and v2 is the savings accounts. In the v1 version of MinetopiaSDB, a savings account wasn't more than a number saved in a players file. There was no option to share savings accounts, v2 sees the savings account nearly identical as a business account. Therefore, it's also possible to give a player multiple savings accounts and add multiple players to one savings account.
 
 ## How do I create a bankaccount?
-Use the command ``/bankaccount create <Savings/Business/Government>`` to create a bankaccount. You can add players to this bankaccount with ``/bankaccount adduser <ID> <User>``. It is also possible to give players certain permissions so that, for example, they can only deposit money and not withdraw. This can be done with the following command: ``/bankaccount adduser <ID> <Player> [Withdraw/Deposit/Both]``.
+Use the command ``/bankaccount create <Savings/Business/Government>`` to create a bankaccount. You can add players to this bankaccount with ``/bankaccount adduser <ID> <User>``. 
+
+You can also give players certain permissions so that, for example, they can only deposit money and not withdraw. This can be done with the following command: ``/bankaccount adduser <ID> <Player> [Withdraw/Deposit/Both]``.
 
 ## How do I use pinconsoles?
 To create a payment request, use the command ``/pin set <Player> <Amount>`` after which you can click on a pinconsole, the 'purpur stairs' to actually send the payment request.
