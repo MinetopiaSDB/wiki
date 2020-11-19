@@ -129,3 +129,7 @@ Aliases: /fouilleer
 Omschrijving: Krijg een lijst van spelers met de langste onlinetijd, het meeste geld of het hoogste level\
 Permissie: minetopiasdb.stattop
 
+**/loan**\
+Omschrijving: Beheer en verstrek leningen\
+Permissie: minetopiasdb.loan om leningen aan te maken en te beheren\
+Aliases: /lening, /loans

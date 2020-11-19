@@ -133,3 +133,8 @@ Aliases: /fouilleer
 **/stattop**\
 Description: Get a list of players with the longest onlinetime, highest bank balance or highest level\
 Permission: minetopiasdb.stattop
+
+**/loan**\
+Description: Manage and give out loans\
+Permission: minetopiasdb.loan to create loans and manage them\
+Aliases: /lening, /loans
