@@ -3,7 +3,9 @@
 Een van de verschillen tussen MinetopiaSDB v1 en v2 zit ook in de spaarrekeningen. In de v1 versie van MinetopiaSDB kon een speler maar een spaarrekening bezitten terwijl v2 de spaarrekening ziet als een soort bedrijfsrekening. Het is dus ook mogelijk om een speler meerdere spaarrekeningen te geven en meerdere spelers toe te voegen aan een spaarrekening.
 
 ## Hoe maak ik een rekening aan?
-Gebruik het commando ``/rekening maak [Spaar/Bedrijf/Overheid]`` om een rekening aan te maken. Je kunt spelers aan deze rekening toevoegen met ``/rekening adduser <ID> <Speler>``.
+Gebruik het commando ``/rekening maak <Spaar/Bedrijf/Overheid>`` om een rekening aan te maken. Je kunt spelers aan deze rekening toevoegen met ``/rekening adduser <ID> <Speler>``. 
+
+Het is ook mogelijk om spelers bepaalde toestemmingen te geven zodat ze bijvoorbeeld enkel geld kunnen storten, en niet kunnen opnemen. Dit kan op de volgende manier: ``/rekening adduser <ID> <Speler> [Opnemen/Storten/Beide]``.
 
 ## Hoe gebruik ik pinconsoles?
 Om een betaalverzoek te versturen typ je het commando ``/pin set <Speler> <Bedrag>`` waarna je op een pinconsole, de 'purpur stairs' moet klikken om het betaalverzoek daadwerkelijk te sturen.

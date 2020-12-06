@@ -63,19 +63,19 @@ Description: Create books for things such as fines, drivingslicenses or passport
 Permission: minetopiasdb.book\
 Aliases: /boek
 Permissions:
-| Permission                          | Beschrijving |
-| :--------------------------------- | :----------- |
-| minetopiasdb.book.fine             | Write out fines |
-| minetopiasdb.book.receipt          | Create receipts |
-| minetopiasdb.book.identification   | Create ID cards|
-| minetopiasdb.book.kvk              | Create a business registration book |
-| minetopiasdb.book.plotregistration | Create a plotregistration book|
-| minetopiasdb.book.driverslicense   | Write out driverslicenses |
-| minetopiasdb.book.permit           | Create permits |
-| minetopiasdb.book.vog              | Create a certificate of conduct |
-| minetopiasdb.book.diploma          | Create certificates |
-| minetopiasdb.book.prescription     | Create drug prescriptions |
-| minetopiasdb.book.cheque           | Create cheques |
+| Permission                          | Description |
+| :---------------------------------- | :----------- |
+| minetopiasdb.book.fine              | Write out fines |
+| minetopiasdb.book.receipt           | Create receipts |
+| minetopiasdb.book.identification    | Create ID cards|
+| minetopiasdb.book.kvk               | Create a business registration book |
+| minetopiasdb.book.plotregistration  | Create a plotregistration book|
+| minetopiasdb.book.driverslicense    | Write out driverslicenses |
+| minetopiasdb.book.permit            | Create permits |
+| minetopiasdb.book.vog               | Create a certificate of conduct |
+| minetopiasdb.book.diploma           | Create certificates |
+| minetopiasdb.book.prescription      | Create drug prescriptions |
+| minetopiasdb.book.cheque            | Create cheques |
 
 **/deathban**\
 Description: With /deathban you can toggle deathban or unban players who are deathbanned.\
@@ -88,8 +88,18 @@ Aliases: /fitheiditems, /rugzak, /backpack, /fitnessitems, /wapens, /weapons
 
 **/sdbitems**\
 Description: Give items a glow or unbreakable effect, or create armor.\
-Permission: minetopiasdb.sdbitems\
 Aliases: /glow, /unbreakable, /boots, /kleding, /prullenbak, /trashcan
+Permissions:
+| Permission                            | Subcommand      |Description |
+| :------------------------------------ | :-------------- | :----------- |
+| minetopiasdb.sdbitems                 | \*              | Execute all /sdbitems commands |
+| minetopiasdb.sdbitems.glow            | glow            | Give items a glow effect |
+| minetopiasdb.sdbitems.unbreakable     | unbreakable     | Make an item unbreakable |
+| minetopiasdb.sdbitems.boots           | boots           | Get special boots |
+| minetopiasdb.sdbitems.clothes         | clothes         | Get colored clothes |
+| minetopiasdb.sdbitems.trashcan        | prullenbak      | Open a trashcan |
+| minetopiasdb.sdbitems.chargetaser     | chargetaser     | Charge your taser |
+| minetopiasdb.sdbitems.fillpepperspray | fillpepperspray | Fill your pepperspray |
 
 **/bankaccount**\
 Description: With /bankaccount you can modify savings, company or government bankaccounts.\
@@ -133,3 +143,8 @@ Aliases: /fouilleer
 **/stattop**\
 Description: Get a list of players with the longest onlinetime, highest bank balance or highest level\
 Permission: minetopiasdb.stattop
+
+**/loan**\
+Description: Manage and give out loans\
+Permission: minetopiasdb.loan to create loans and manage them\
+Aliases: /lening, /loans
