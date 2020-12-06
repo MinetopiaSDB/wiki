@@ -88,8 +88,18 @@ Aliases: /fitheiditems, /rugzak, /backpack, /fitnessitems, /wapens, /weapons
 
 **/sdbitems**\
 Omschrijving: Geef items een glow of unbreakable effect, of maak armor.\
-Permissie: minetopiasdb.sdbitems\
 Aliases: /glow, /unbreakable, /boots, /kleding, /prullenbak, /trashcan
+Permissies:
+| Permissie                             | Subcommand      |Beschrijving |
+| :------------------------------------ | :-------------- | :----------- |
+| minetopiasdb.sdbitems                 | \*              | Voer alle /sdbitems commands uit |
+| minetopiasdb.sdbitems.glow            | glow            | Geef een glow effect aan items |
+| minetopiasdb.sdbitems.unbreakable     | unbreakable     | Maak een item unbreakable |
+| minetopiasdb.sdbitems.boots           | boots           | Krijg speciale boots |
+| minetopiasdb.sdbitems.clothes         | kleding         | Krijg gekleurde kleding |
+| minetopiasdb.sdbitems.trashcan        | prullenbak      | Open een prullenbak |
+| minetopiasdb.sdbitems.chargetaser     | chargetaser     | Laad een taser op |
+| minetopiasdb.sdbitems.fillpepperspray | fillpepperspray | Vul jouw pepperspray |
 
 [**/bankaccount**](./banking.md#hoe-maak-ik-een-rekening-aan)\
 Omschrijving: Met /rekening kan je spaar-, bedrijf-, of overheidsrekeningen aanpassen.\
