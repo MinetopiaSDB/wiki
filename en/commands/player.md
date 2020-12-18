@@ -69,6 +69,8 @@ Permissions:
 | minetopiasdb.plot.list           | Get a list of all free plots and all plots that a player owns |
 | minetopiasdb.plot.calculate      | Calculate the price of the plot |
 | minetopiasdb.plot.setdescription | Change the description of a plot |
+| minetopiasdb.plot.create         | Create plots |
+| minetopiasdb.plot.delete         | Delete plots |
 
 **/booster**\
 Description: Use /booster to give, remove and activate grayshard, goldshard and luckyshard boosters.\
