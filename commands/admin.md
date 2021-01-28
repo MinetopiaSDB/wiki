@@ -28,7 +28,6 @@ Permissie: minetopiasdb.levelcheck
 
 **/mod**\
 Omschrijving: Verander spelersdata (zoals level, fitheid) van een speler.\
-Permissie: minetopiasdb.mod\
 Permissies per subcommando:
 | Permissie                          | Beschrijving |
 | :--------------------------------- | :----------- |
