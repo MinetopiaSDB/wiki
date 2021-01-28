@@ -69,6 +69,7 @@ Permissions:
 | minetopiasdb.plot.list           | Get a list of all free plots and all plots that a player owns |
 | minetopiasdb.plot.calculate      | Calculate the price of the plot |
 | minetopiasdb.plot.setdescription | Change the description of a plot |
+| minetopiasdb.plot.setlevels      | Change the amount of levels you get as plot owner |
 | minetopiasdb.plot.create         | Create plots |
 | minetopiasdb.plot.delete         | Delete plots |
 

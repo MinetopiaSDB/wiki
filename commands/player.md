@@ -69,6 +69,7 @@ Permissies:
 | minetopiasdb.plot.list           | Krijg een lijst van alle vrije plots en alle plots van een speler |
 | minetopiasdb.plot.calculate      | Bereken de prijs van een plot |
 | minetopiasdb.plot.setdescription | Verander de beschrijving van een plot |
+| minetopiasdb.plot.setlevels      | Verander het aantal levels wat je krijgt als plot eigenaar |
 | minetopiasdb.plot.create         | Maak een plot aan |
 | minetopiasdb.plot.delete         | Verwijder plots |
 
