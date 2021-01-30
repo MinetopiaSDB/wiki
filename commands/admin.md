@@ -31,7 +31,6 @@ Omschrijving: Verander spelersdata (zoals level, fitheid) van een speler.\
 Permissies per subcommando:
 | Permissie                          | Beschrijving |
 | :--------------------------------- | :----------- |
-| minetopiasdb.mod.setprefix         | Verander de prefix van een speler                                           |
 | minetopiasdb.mod.setlevel          | Verander het level van een speler                                           |
 | minetopiasdb.mod.setcolor          | Verander de naamkleur van een speler                                        |
 | minetopiasdb.mod.setfitness        | Verander de fitheid van een speler (via /mod addfitheid of /mod setfitheid) |
