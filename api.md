@@ -15,3 +15,5 @@ De MinetopiaSDB API is beschikbaar via de repo.mrwouter.nl Maven repository. Om 
     <scope>provided</scope>
 </dependency>
 ```
+
+Je kunt de Javadocs [hier](https://docs.minetopiasdb.nl/) vinden.
