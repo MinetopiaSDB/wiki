@@ -146,3 +146,8 @@ Permission: minetopiasdb.stattop
 Description: Manage and give out loans\
 Permission: minetopiasdb.loan to create loans and manage them\
 Aliases: /lening, /loans
+
+**/election**\
+Description: Manage and see the status of the election\
+Permission: minetopiasdb.election\
+Aliases: /verkiezing
