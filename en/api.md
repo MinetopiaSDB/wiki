@@ -1,5 +1,9 @@
 # MinetopiaSDB API
 
+::: tip
+De Javadoc kan je [hier](https://docs.minetopiasdb.nl/) vinden!
+:::
+
 The MinetopiaSDB API is available on the repo.mrwouter.nl Maven repository. You can add this in your pom.xml file to make use of the API:
 ```xml
 <repository>

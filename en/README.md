@@ -2,7 +2,7 @@
 
 MinetopiaSDB is the most active remake Minetopia plugin at the moment, a lot of work is being done on a daily basis and therefore, MinetopiaSDB is updated often.
 
-MinetopiaSDB means quality. That's why this plugin contains a lot of functions and strives toward causing as little lag as possible. This is also the reason that many large servers such as **Craftville** and **AlphaNetwork** use MinetopiaSDB.
+MinetopiaSDB means quality. That's why this plugin contains a lot of functions and strives toward causing as little lag as possible. This is also the reason that many large servers such as **Craftville** use MinetopiaSDB.
 
 Are you already convinced? Then take a quick look at the [setup](setup.md) page to get started!
 
