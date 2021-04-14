@@ -32,6 +32,7 @@ Permissie: minetopiasdb.mod\
 Permissies per subcommando:
 | Permissie                          | Beschrijving |
 | :--------------------------------- | :----------- |
+| minetopiasdb.mod.\*                | Alle onderstaande permissies                                                |
 | minetopiasdb.mod.setlevel          | Verander het level van een speler                                           |
 | minetopiasdb.mod.setcolor          | Verander de naamkleur van een speler                                        |
 | minetopiasdb.mod.setfitness        | Verander de fitheid van een speler (via /mod addfitheid of /mod setfitheid) |

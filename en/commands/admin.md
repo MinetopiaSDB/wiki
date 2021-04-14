@@ -31,6 +31,7 @@ Description: Change playerdata (such as level and fitness) of a player.\
 Permissions per subcommand:
 | Permissie                          | Descrpiption |
 | :--------------------------------- | :----------- |
+| minetopiasdb.mod.\*                | All of the permissions below                                              |
 | minetopiasdb.mod.setlevel          | Change the level of a player                                              |
 | minetopiasdb.mod.setcolor          | Change the namecolor of a player                                          |
 | minetopiasdb.mod.setfitness        | Change the fitness of a player (using /mod addfitness or /mod setfitness) |
