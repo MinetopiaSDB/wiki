@@ -25,6 +25,7 @@ You can also use these placeholders in the Message.yml file by adding ``Player``
 | &lt;TimeMinutes&gt;        | The amount of online minutes this player has        |
 | &lt;TimeSeconds&gt;        | The amount of online seconds this player has        |
 | &lt;World&gt;              | The current world- or cityname                      |
+| &lt;WorldName&gt;          | The current world- or cityname without colors       |
 | &lt;Worldcolor&gt;         | The current world- or citycolor                     |
 | &lt;OppositeWorldcolor&gt; | The opposite worldcolor                             |
 | &lt;Temperature&gt;        | The current temperature                             |

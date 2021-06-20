@@ -25,6 +25,7 @@ Je kunt deze berichten ook in de Message.yml gebruiken door er ``Player`` voor t
 | &lt;TimeMinutes&gt;        | Het aantal online minuten van de speler      |
 | &lt;TimeSeconds&gt;        | Het aantal online seconden van de speler     |
 | &lt;World&gt;              | De huidige wereld- of stadnaam               |
+| &lt;WorldName&gt;          | De huidige wereld- of stadnaam zonder kleur  |
 | &lt;Worldcolor&gt;         | De huidige wereldkleur                       |
 | &lt;OppositeWorldcolor&gt; | De tegenovergestelde wereldkleur             |
 | &lt;Temperature&gt;        | De huidige temperatuur                       |
