@@ -20,7 +20,7 @@ There are a lot! Most of the changes are behind the scenes, but a couple of cool
 - You can combine multiple MinetopiaSDB servers via Bungeecord, to spread players over multiple servers.
 
 
-## Hoe can I get my rank in the chat or tablist?
+## How can I get my rank in the chat or tablist?
 Because the /setrank command isn't present in MinetopiaSDB v2 anymore, you'll have to do it a different way.
 ### LuckPerms:
 - Install the plugin [PlaceholderAPI](https://www.spigotmc.org/resources/placeholderapi.6245/)
