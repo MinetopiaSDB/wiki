@@ -50,7 +50,8 @@ module.exports = {
     editLinks: true,
     nextLinks: true,
     algolia: {
-      apiKey: 'bd19a781d521c4f1e342a6b1fab1a6f9',
+      appId: 'FCQDL2OVXR',
+      apiKey: 'a4547a0d4c7b42ee58064d52f719d6c6',
       indexName: 'minetopiasdb'
     },
     searchPlaceholder: 'Zoeken...',
