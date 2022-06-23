@@ -30,3 +30,4 @@ Om gebruik te maken van de PlaceholderAPI placeholders, moet je eerst Placeholde
 | %minetopiasdb_timedays%        | Het aantal online dagen van de speler        |
 | %minetopiasdb_time%            | De huidige tijd (HH:mm)                      |
 | %minetopiasdb_date%            | De huidige datum (dd-MM-yyyy)                |
+| %minetopiasdb_levelups%        | Het verschil tussen huidig en berekend level |

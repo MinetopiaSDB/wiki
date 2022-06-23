@@ -142,3 +142,8 @@ Permissie: minetopiasdb.stattop
 Omschrijving: Beheer en verstrek leningen\
 Permissie: minetopiasdb.loan om leningen aan te maken en te beheren\
 Aliases: /lening, /loans
+
+**/handboei**\
+Description: Handboei een speler\
+Permission: minetopiasdb.handcuff\
+Aliases: /handcuff

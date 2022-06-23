@@ -12,3 +12,5 @@ This page only includes the permissions for functions which are not bound to a c
 | minetopiasdb.changehelmet          | Change the helmets of armorstands to items on the headwhitelist |
 | minetopiasdb.chatbypass            | Bypass antiswear, anticaps and antispam |
 | minetopiasdb.handcuff              | Handcuff players with the handcuff item |
+| minetopiasdb.detectiongate.bypass  | Bypass detectiongates (never find illegal items) |
+| minetopiasdb.detectiongate.alert   | Receive an alert if a detectiongate goes off when you're in range |

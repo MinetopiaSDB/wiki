@@ -12,3 +12,5 @@ Op deze pagina staan alleen de permissies voor functies die niet aan een command
 | minetopiasdb.changehelmet          | Verander de helmen van armorstands naar items op de headwhitelist |
 | minetopiasdb.chatbypass            | Bypass antiswear, anticaps en antispam |
 | minetopiasdb.handcuff              | Handboei spelers met het handboei item |
+| minetopiasdb.detectiongate.bypass  | Bypass detectiepoortjes (nooit verboden items vinden) |
+| minetopiasdb.detectiongate.alert   | Ontvang een melding als een detectiepoortje afgaat terwijl jij in de buurt bent |
