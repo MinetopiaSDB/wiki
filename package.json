@@ -11,7 +11,7 @@
     "vuepress": "^1.5.4"
   },
   "dependencies": {
-    "moment": "^2.26.0",
+    "moment": "^2.29.2",
     "vuepress-theme-default-prefers-color-scheme": "^1.1.0"
   }
 }
