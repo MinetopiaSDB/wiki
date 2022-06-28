@@ -147,3 +147,8 @@ Permission: minetopiasdb.stattop
 Description: Manage and give out loans\
 Permission: minetopiasdb.loan to create loans and manage them\
 Aliases: /lening, /loans
+
+**/handcuff**\
+Description: Handcuff a player\
+Permission: minetopiasdb.handcuff\
+Aliases: /handboei
