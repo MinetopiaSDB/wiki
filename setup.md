@@ -21,7 +21,6 @@ Vanaf MinetopiaSDB v2.6 wordt er enkel ondersteuning gegeven op Minecraft 1.12.2
 | 1.20.1          | [Download](https://dev.bukkit.org/projects/worldedit/files/4586220/download) | [Download](https://dev.bukkit.org/projects/worldguard/files/4675318/download) | [Download](https://essentialsx.net/downloads.html?branch=stable) | [Download](https://www.spigotmc.org/resources/vault.34315/download?version=344916) | [Download](https://ci.citizensnpcs.co/job/citizens2/lastSuccessfulBuild/) |
 
 
-
 ## Hoe moet ik beginnen?
 
 Heel makkelijk, je downloadt de goede versie van alle dependencies (en natuurlijk MinetopiaSDB zelf) en zet deze in jouw ``plugins`` mapje. Als je dit hebt gedaan, kun je jouw server opstarten. Als alles lijkt te werken kun je een wereld toevoegen met /mtworld add \<Wereld\> en kun je echt van start met jouw Minetopia server!
